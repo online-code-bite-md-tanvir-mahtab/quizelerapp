@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "719704073477",
+    "project_id": "quize-game-7278c",
+    "storage_bucket": "quize-game-7278c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719704073477:android:46fc4fe1cd880500a3036c",
+        "android_client_info": {
+          "package_name": "com.example.quizeler"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbkMvM9EDDlTMyGBxxW7XQgTa-b5ESdIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
